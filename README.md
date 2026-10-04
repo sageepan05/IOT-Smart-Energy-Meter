@@ -75,8 +75,4 @@ The ESP32 reads the values every second, checks them against the protection thre
 Readings are shown on the LCD, served on the local web page, and sent to Blynk over Wi-Fi.
 
 
-LCD page switching with the button
 
-Data logging and consumption history
-
-Fire alarm integration, and supply disconnection based on payment status
